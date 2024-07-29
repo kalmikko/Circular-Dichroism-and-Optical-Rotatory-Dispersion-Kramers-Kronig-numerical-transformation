@@ -30,4 +30,4 @@ The script outputs the following plot, showing the original Lorentzian peak in b
 # Used sources
 [1] C. A. Emeis, L. J. Oosterhoff and G. D. Vries, Numerical evaluation of Kramers—Kronig relations, Royal Society, 1967. 
 
-[2] K. Ohta och H. Ishida, Comparison Among Several Numerical Integration Methods for Kramers-Kronig Transformation, Applied Spectroscopy, 1988. 
+[2] K. Ohta and H. Ishida, Comparison Among Several Numerical Integration Methods for Kramers-Kronig Transformation, Applied Spectroscopy, 1988. 
